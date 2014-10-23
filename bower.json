@@ -1,0 +1,35 @@
+{
+  "name": "basic-angular-site",
+  "version": "0.0.0",
+  "authors": [
+    "Josh Carroll <jwarren.carroll@gmail.com>"
+  ],
+  "description": "Simple static angular site for playing",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "static",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-animate": "~1.3.0",
+    "lodash": "~2.4.1",
+    "angular-mocks": "~1.3.0",
+    "bootstrap": "~3.2.0",
+    "font-awesome": "~4.2.0",
+    "angular-route": "~1.3.0"
+  }
+}
